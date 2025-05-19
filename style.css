@@ -1,0 +1,50 @@
+body {
+	background-color: black; /* Color de fondo */
+	font-family: Arial, sans-serif;
+	margin: 100;
+	padding: 100;
+}
+
+/* 🔹 HEADER */
+header {
+	background-color: #ffcc00; /* Amarillo vibrante */
+	color: #333; /* Texto oscuro para buen contraste */
+	text-align: center;
+	padding: 20px;
+	border: 3px solid #ffaa00; /* Borde más oscuro para contraste */
+}
+
+h1 {
+	text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); /* Sombrado sutil */
+}
+
+/* 🔹 MAIN */
+main {
+	background-color: #66ccff; /* Azul claro */
+	color: #fff; /* Texto blanco para contraste */
+	padding: 20px;
+	border: 3px solid #3399ff;
+	margin: 10px;
+}
+
+h2 {
+	color: #003366; /* Azul oscuro */
+}
+
+/* 🔹 PÁRRAFOS */
+p {
+	background-color: #0056b3; /* Azul fuerte */
+	color: #ffffff; /* Texto blanco para buen contraste */
+	padding: 10px;
+	border-radius: 5px; /* Bordes redondeados */
+}
+
+/* 🔹 FOOTER */
+footer {
+	background-color: #ff6666; /* Rojo pastel */
+	color: white;
+	text-align: center;
+	padding: 15px;
+	border: 3px solid #cc3333;
+}
+
